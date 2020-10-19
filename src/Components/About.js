@@ -13,8 +13,8 @@ function About() {
                         <hr className="space"></hr>
                         <p className="about-description">
                             Hello! My name is Minh Truong. I am currently a sophomore at the University of North Carolina at Chapel Hill
-                            pursuing a Bachelor of Science in Computer Science. I am confident in my abilities
-                            and motivation to produce meaningful work and positively contribute to the workplace while expanding my technical skills. 
+                            pursuing a B.S. in Computer Science. I am confident in my abilities
+                            and am determined to produce meaningful work while positively contributing to the workplace culture.
                         </p>
                         <hr style={{display: "none"}}></hr>
                         <p className="about-description">
