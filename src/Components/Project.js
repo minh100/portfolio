@@ -63,7 +63,7 @@ const projectItem = [
         info: "Built a website to gain exposure to web development and showcase my passions and interests",
         link: "",
         code: "https://github.com/minh100/portfolio",
-        picture: require('../Images/MinhPic.jpg'),
+        picture: require('../Images/Haku.jpg'),
     },
     {
         title: "Assassins",
