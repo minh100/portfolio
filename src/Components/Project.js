@@ -62,7 +62,7 @@ const projectItem = [
         tech: "ReactJS/HTML/CSS",
         info: "Built a website to gain exposure to web development and showcase my passions and interests",
         link: "",
-        code: "",
+        code: "https://github.com/minh100/portfolio",
         picture: require('../Images/MinhPic.jpg'),
     },
     {
