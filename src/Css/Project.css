@@ -1,0 +1,119 @@
+.project-container {
+    background-color: var(--primary-color);
+    display: block;
+}
+
+.project-content {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 55px;
+    padding-top: 25px;
+
+}
+
+.list-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding:0;
+    justify-content: center;
+}
+
+.card {
+    position: relative;
+    width: 300px;
+    display: flex;
+    flex: 0 0 300px;
+    flex-direction: column;
+    margin: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    overflow: hidden;
+    text-align: center;
+    min-height: 400px;
+    color: var(--primary-color)
+}
+
+.card:before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.card-info {
+    flex: 1 0 auto;
+    padding: 15px;
+    padding-top: 10px;
+    background: #0c1618;
+    transform: translateY(85%);
+    transition: .3s;
+}
+
+.card-subtitle{
+    font-style: italic;
+    margin-bottom: 7px;
+}
+
+.card-tech {
+    margin-bottom: 7px;
+}
+
+.card-title {
+    position: relative;
+    padding: 4px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.card:hover .card-info {
+    transform: translateY(30%);
+}
+
+.card-description {
+    font-size: 15px;
+    font-weight: 100;
+    margin-bottom: 40px;
+    margin-top:20px;
+}
+
+.project-links {
+   display: flex;
+   justify-content: space-evenly;
+}
+
+.project-link {
+    text-decoration: underline;
+    color: var(--secondary-color);
+}
+
+.project-title {
+    color: black;
+    font-size: 45px;
+    font-weight: 500;
+    line-height: 1.1;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    display: block;
+    text-align: center;
+}
+
+.space-black {
+    display: block;
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 0;
+    border-top: 1px solid black;
+    border-width: 3px;
+    max-width: 50px;
+}

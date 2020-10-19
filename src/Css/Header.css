@@ -1,0 +1,71 @@
+header {
+    display: block;
+    position: relative;
+    width: 100%;
+    min-height: calc(100vh + 10px);
+    text-align: center;
+    color: #fff;
+    background-image: url(../MinhPiclandscape2.jpg);
+    background-position: center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+.header-content {
+    position: relative;
+    width: 100%;
+    padding: 450px 15px 0 15px;
+    text-align: center;
+    top: 80%;
+}
+
+#name {
+    font-weight: 700;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 3rem;
+    
+}
+
+#title {
+    padding-top: 1rem;
+    font-size: 1.4rem;
+}
+
+@media screen and (min-width: 760px) {
+    .header {
+        min-height: 100%;
+    }
+    .header-content {
+        position: absolute;
+        top: 80%;
+        padding: 0 50px;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .header-content-inner {
+        margin-right: auto;
+        margin-left: auto;
+        max-width: 1000px;
+    }
+    #title {
+        padding-top: 1rem;
+        font-size: 1.4rem;
+    }
+    #name {
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 0;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 95px;
+    }
+}
