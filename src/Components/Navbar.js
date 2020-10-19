@@ -13,11 +13,8 @@ function Navbar() {
     return (
         <div className="navbar">
             <div className="navbar-section">
-                <a className="logo" href="/">
-                    <img id="logo" src={Logo} alt="logo" />
-                </a>
+                <img id="logo" src={Logo} alt="logo" />
                 <div className="links">
-                    <a id="right-border" className="link" href="/">Home</a>
                     <a id="right-border" className="link" href="#about-page">About Me</a>
                     <a id="right-border" className="link" href="#project-page">Projects</a>
                     <a className="link" href="#contact-page">Contact</a>
@@ -26,9 +23,6 @@ function Navbar() {
                     </div>
                 </div>
                 <ul className={open ? 'nav-menu active' : 'nav-menu'}>
-                    <a className="mobile-link" href="/">
-                        Home
-                    </a>
                     <a className="mobile-link" href="#about-page">
                         About Me
                     </a>
