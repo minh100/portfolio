@@ -38,7 +38,12 @@ function Contact() {
                     </div>
                     <div className="contact-info">
                         <i className="fas fa-file fa-2x"></i>
-                        <a className="text" href="https://drive.google.com/file/d/1OB4uPwuA3xVOU6pGsMwSci1B5E9Fmdl_/view?usp=sharing">Resume</a>
+                        <a className="text"
+                            href="https://drive.google.com/file/d/1Iz0r2SfC8OooCDq_JjQSAbJKzC1SiRXm/view?usp=sharing"
+                            target="_blank"
+                            rel="noopener noreferrer">
+                            Resume
+                            </a>
                     </div>
                 </div>
             </div>
