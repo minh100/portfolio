@@ -39,7 +39,7 @@ function Contact() {
                     <div className="contact-info">
                         <i className="fas fa-file fa-2x"></i>
                         <a className="text"
-                            href="https://drive.google.com/file/d/1Iz0r2SfC8OooCDq_JjQSAbJKzC1SiRXm/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1krEWiV-8wOGSaOWC7dCxEM0l_aFMmqBV/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer">
                             Resume
