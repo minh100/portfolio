@@ -6,6 +6,7 @@
   --primary-color: #DDE1E6;
   --secondary-color: #FA5F69;
   --background-color: #222;
+  scroll-behavior: smooth;
 }
 
 body {
