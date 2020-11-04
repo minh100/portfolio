@@ -21,7 +21,7 @@ function About() {
                             Aside from CS, I enjoy trying new things and being with friends. Some things I like to do are play games (video/board), 
                             play volleyball, learn and enjoy Korean culture, and watch horror movies although only with friends :) 
                         </p>
-                        <a id="sublink-to-contact" href="/">Contact Me Here!</a>
+                        <a id="sublink-to-contact" href="#contact-page">Contact Me Here!</a>
                     </div>
                 </div>
             </div>
