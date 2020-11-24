@@ -82,7 +82,16 @@ const projectItem = [
         link: "",
         code: "https://github.com/minh100",
         picture: require('../Images/bitdecoder.png')
-    }
+    },
+    {
+        title: "Nonogram",
+        subtitle: "Logic Puzzle",
+        tech: "Java, JavaFX, Maven",
+        info: "A single player logic game involving using the row and column clue to lead to the desired pattern",
+        link: "",
+        code: "https://github.com/minh100/Nonogram",
+        picture: require('../Images/nonogram.png')
+    },
 
 ]
 
