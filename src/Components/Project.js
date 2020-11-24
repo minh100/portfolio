@@ -49,7 +49,7 @@ const projectItem = [
     {
         title: "MyList",
         subtitle: "Anime Searcher and Tracker",
-        tech: "ReactJS/HTML/CSS",
+        tech: "ReactJS, HTML, CSS",
         info: "React website that allows you to search for anime and keep track of it in 3 lists. You can search for specific anime or use the prepopulated categories. All your anime lists are saved so you can comeback whenever and explore again.",
         link: "https://minh100.github.io/MyList/",
         code: "https://github.com/minh100/MyList/",
@@ -59,7 +59,7 @@ const projectItem = [
 
         title: "Portfolio",
         subtitle: "Personal Website",
-        tech: "ReactJS/HTML/CSS",
+        tech: "ReactJS, HTML, CSS",
         info: "Built a website to gain exposure to web development and showcase my passions and interests",
         link: "",
         code: "https://github.com/minh100/portfolio",
