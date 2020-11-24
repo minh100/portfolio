@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99e0406b436881fb78b17f6d7284535a",
+    "revision": "a42a4fea1bf58a75b525cff178f9a7d9",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "adc9fbf62d251fe894d7",
+    "revision": "904b404660fba51a30c3",
     "url": "/portfolio/static/css/main.1bab8c09.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/js/2.33b34f7b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "adc9fbf62d251fe894d7",
-    "url": "/portfolio/static/js/main.b8f0d67b.chunk.js"
+    "revision": "904b404660fba51a30c3",
+    "url": "/portfolio/static/js/main.32d20789.chunk.js"
   },
   {
     "revision": "7a6cc99bd8f08f9fa6ec",
@@ -44,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/myListpic3.2d6b10d5.png"
   },
   {
-    "revision": "db135fb1139a323a09eb7a5ca7a57a27",
-    "url": "/portfolio/static/media/nonogram.db135fb1.png"
+    "revision": "506d182bcc294f3af99c421b598b81d4",
+    "url": "/portfolio/static/media/nonogram.506d182b.png"
   }
 ]);
