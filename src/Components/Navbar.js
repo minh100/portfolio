@@ -15,6 +15,7 @@ function Navbar() {
             <div className="navbar-section">
                 <img id="logo" src={Logo} alt="logo" />
                 <div className="links">
+                    <a id="right-border" className="link" href="/portfolio">Home</a>
                     <a id="right-border" className="link" href="#about-page">About Me</a>
                     <a id="right-border" className="link" href="#project-page">Projects</a>
                     <a className="link" href="#contact-page">Contact</a>
