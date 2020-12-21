@@ -13,7 +13,8 @@ function Navbar() {
     return (
         <div className="navbar">
             <div className="navbar-section">
-                <img id="logo" src={Logo} alt="logo" />
+                <a href="/portfolio"><img id="logo" src={Logo} alt="logo" /></a>
+                
                 <div className="links">
                     <a id="right-border" className="link" href="/portfolio">Home</a>
                     <a id="right-border" className="link" href="#about-page">About Me</a>

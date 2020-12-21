@@ -54,13 +54,14 @@
  #right-border {
      border-right: solid;
      border-width: 1.2px;
-     
+     scroll-behavior: smooth;
  }
 
  #logo {
     max-width: 150px;
     max-height: 150px;
-    border-radius: 14px;  
+    border-radius: 14px;
+    margin-top: 10px;  
  }
 
  .mobile {

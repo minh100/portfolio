@@ -5,7 +5,7 @@ function Header(){
 
     return (
         <header>
-            <div className="header-content">
+            <div id="/" className="header-content">
                 <div className="header-content-inner">
                     <h1 id="name">Minh Truong</h1>
                     <hr></hr>
