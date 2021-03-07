@@ -47,6 +47,15 @@ function Project() {
 
 const projectItem = [
     {
+        title: "MChat",
+        subtitle: "Online Chat App",
+        tech: "ReactJS, Express, NodeJS, Socket.IO",
+        info: "Website that allows users to create and join rooms to talk to other users in real time",
+        link: "https://minh100.github.io/MChat/",
+        code: "https://github.com/minh100/MChat",
+        picture: require('../Images/MChatPic.png')
+    },
+    {
         title: "MyList",
         subtitle: "Anime Searcher and Tracker",
         tech: "ReactJS, HTML, CSS",
