@@ -47,6 +47,15 @@ function Project() {
 
 const projectItem = [
     {
+        title: "Gomoku",
+        subtitle: "Play Gomoku Online",
+        tech: "MongoDB, Express, NodeJS, ReactJS, SocketIO",
+        info: "Signup and Login to play Gomoku against others in realtime. Find or make a game room to compete against others for rating and see how you rank amongst everyone else!",
+        link: "https://minh100.github.io/Gomoku/",
+        code: "https://github.com/minh100/Gomoku",
+        picture: require('../Images/gomoku.svg')
+    },
+    {
         title: "MChat",
         subtitle: "Online Chat App",
         tech: "ReactJS, Express, NodeJS, Socket.IO",
@@ -63,6 +72,15 @@ const projectItem = [
         link: "https://minh100.github.io/MyList/",
         code: "https://github.com/minh100/MyList/",
         picture: require('../Images/myListpic3.png'),
+    },
+    {
+        title: "2048",
+        subtitle: "Play 2048 game",
+        tech: "ReactJS, Tailwind CSS",
+        info: "ReactJS implementation of the game 2048, move and merge same tiles to add up to 2048 to win",
+        link: "https://minh100.github.io/2048/",
+        code: "https://github.com/minh100/2048",
+        picture: require('../Images/2048Pic.png'),
     },
     {
 
