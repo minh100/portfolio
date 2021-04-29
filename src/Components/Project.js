@@ -50,8 +50,8 @@ const projectItem = [
         title: "Gomoku",
         subtitle: "Play Gomoku Online",
         tech: "MongoDB, Express, NodeJS, ReactJS, SocketIO",
-        info: "Signup and Login to play Gomoku against others in realtime. Find or make a game room to compete against others for rating and see how you rank amongst everyone else!",
-        link: "https://minh100.github.io/Gomoku/",
+        info: "Signup and login to play Gomoku against others in realtime. Find or make a game room to compete against others for rating and see how you rank amongst everyone else!",
+        link: "https://playgomoku.netlify.app/",
         code: "https://github.com/minh100/Gomoku",
         picture: require('../Images/gomoku.svg')
     },
